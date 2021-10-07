@@ -1,2 +1,5 @@
 # framer-motion
-All course files for the Framer Motion &amp; React tutorial series on The Net Ninja YouTube channel.
+
+A site implementing framer motion.
+
+https://elated-minsky-5a0fcc.netlify.app
